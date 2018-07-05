@@ -1,0 +1,32 @@
+.container {
+    position: relative;
+}
+.icon {
+    display: inline-block;
+    width: 250px;
+    height: 100px;
+    margin: 1em;
+    float: inherit;
+    padding-bottom:40px;
+    padding-top:40px;
+    
+}
+h1 {
+    color: white;
+    text-align: center;
+    padding-bottom:20px;
+    font-size: 48px;
+}
+h3 {
+    color: red;
+    text-align: center;
+    padding-bottom:30px;
+    padding-top:40px;
+    font-size: 36px;
+}
+p {
+    color: blue;
+    text-align: center;
+    padding-bottom:20px;
+    padding-top:20px;
+}
